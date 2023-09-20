@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:id="@+id/container"
+    android:background="@drawable/bg_productos"
+    tools:context=".fragmentEditarPedido">
+
+    <LinearLayout
+        android:layout_width="300dp"
+        android:padding="40dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/border"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/txtPedidos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:text="PEDIDO" />
+
+        <EditText
+            android:id="@+id/editTextProducto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:layout_marginTop="70dp"
+            android:hint="Nombre del Producto" />
+
+        <EditText
+            android:id="@+id/editTextCantidad"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:layout_marginTop="10dp"
+            android:hint="Cantidad" />
+
+
+        <Button
+            android:id="@+id/btnGuardar"
+            android:layout_width="200dp"
+            android:textSize="20dp"
+            android:textColor="@color/white"
+            android:padding="15dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="EDITAR"
+            android:backgroundTint="#ae6070"
+            android:layout_marginTop="50dp"
+            />
+
+        <Button
+            android:id="@+id/btnEliminar"
+            android:layout_width="200dp"
+            android:textSize="20dp"
+            android:textColor="@color/white"
+            android:padding="15dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="ELIMINAR"
+            android:backgroundTint="#ae6070"
+            android:layout_marginTop="10dp"
+            />
+
+
+    </LinearLayout>
+</LinearLayout>

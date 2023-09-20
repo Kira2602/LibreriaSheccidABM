@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Librería Sheccid</string>
+    <string name="home_screen">Primera pantalla</string>
+    <string name="home_dashboard">Segunda pantalla</string>
+    <string name="home_notificacion">Tercera pantalla</string>
+
+    <string name="home_title">Principal</string>
+    <string name="dashboard_title">Principal</string>
+    <string name="notificacion_title">Principal</string>
+
+    <!-- Descripciones para los iconos de redes sociales -->
+    <string name="facebook_icon_description">Facebook</string>
+    <string name="twitter_icon_description">Twitter</string>
+    <string name="instagram_icon_description">Instagram</string>
+    <string name="facebook_url">https://www.facebook.com/cblSheccid/</string>
+    <string name="instagram_url">https://www.instagram.com/creasheccid/</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
