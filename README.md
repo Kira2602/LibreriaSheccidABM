@@ -9,7 +9,7 @@
 # Aplicación :calling:
 - **Login y Registro** :white_check_mark:
   
-<img width="300" src="https://github.com/Kira2602/imagenes/blob/main/Libreria_login.jpeg"> <img width="300" height="300" src="https://github.com/Kira2602/imagenes/blob/main/Libreria_registro.jpeg"> 
+<img width="300" src="https://github.com/Kira2602/imagenes/blob/main/Libreria_login.jpeg"> <img width="300" src="https://github.com/Kira2602/imagenes/blob/main/Libreria_registro.jpeg"> 
 
 - **Clientes** :man::woman:
 
