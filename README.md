@@ -14,7 +14,7 @@
 
 - **Clientes** :man::woman:
 
-<img width="200" src="https://github.com/Kira2602/imagenes/blob/main/Libreria_clientes.jpeg"> <img width="200" src="https://github.com/Kira2602/imagenes/blob/main/Libreria_agregarCliente.jpeg"> <img width="200" src="https://github.com/Kira2602/imagenes/blob/main/Libreria_editarCliente.jpeg"> 
+<img width="250" src="https://github.com/Kira2602/imagenes/blob/main/Libreria_clientes.jpeg"> <img width="250" src="https://github.com/Kira2602/imagenes/blob/main/Libreria_agregarCliente.jpeg"> <img width="250" src="https://github.com/Kira2602/imagenes/blob/main/Libreria_editarCliente.jpeg"> 
 
 
 - **Productos** :scissors:
