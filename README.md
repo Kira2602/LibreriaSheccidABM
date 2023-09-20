@@ -9,17 +9,21 @@
 # Aplicación :calling:
 - **Login y Registro** :white_check_mark:
   
-<img width="300" src="https://github.com/Kira2602/imagenes/blob/main/Libreria_login.jpeg"> <img width="300" src="https://github.com/Kira2602/imagenes/blob/main/Libreria_registro.jpeg"> 
+
 
 - **Clientes** :man::woman:
 
-<img width="300" src="https://github.com/Kira2602/imagenes/blob/main/Libreria_clientes.jpeg"> <img width="300" src="https://github.com/Kira2602/imagenes/blob/main/Libreria_agregarCliente.jpeg"> <img width="300" src="https://github.com/Kira2602/imagenes/blob/main/Libreria_editarCliente.jpeg"> 
 
 - **Productos** :scissors:
 
-<img width="300" src="https://github.com/Kira2602/imagenes/blob/main/Libreria_productos.jpeg"> <img width="300" src="https://github.com/Kira2602/imagenes/blob/main/Libreria_agregarCliente.jpeg">
+
 
 -- **Pedidos** :memo:
 
-<img width="300" src="https://github.com/Kira2602/imagenes/blob/main/Libreria_pedidos.jpeg"> <img width="300" src="https://github.com/Kira2602/imagenes/blob/main/Libreria_agregarCliente.jpeg">
+
+
+-- **Redes Sociales** :memo:
+
+<img width="300" src="https://github.com/Kira2602/imagenes/blob/main/Libreria_contactos.jpeg"> 
+
 
